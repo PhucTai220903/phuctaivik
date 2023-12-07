@@ -1,0 +1,9 @@
+D:\Code\projectWinform\ProjectWinform\bin\Debug\ProjectWinform.exe.config
+D:\Code\projectWinform\ProjectWinform\bin\Debug\ProjectWinform.exe
+D:\Code\projectWinform\ProjectWinform\bin\Debug\ProjectWinform.pdb
+D:\Code\projectWinform\ProjectWinform\obj\Debug\ProjectWinform.csproj.AssemblyReference.cache
+D:\Code\projectWinform\ProjectWinform\obj\Debug\ProjectWinform.Properties.Resources.resources
+D:\Code\projectWinform\ProjectWinform\obj\Debug\ProjectWinform.csproj.GenerateResource.cache
+D:\Code\projectWinform\ProjectWinform\obj\Debug\ProjectWinform.csproj.CoreCompileInputs.cache
+D:\Code\projectWinform\ProjectWinform\obj\Debug\ProjectWinform.exe
+D:\Code\projectWinform\ProjectWinform\obj\Debug\ProjectWinform.pdb
